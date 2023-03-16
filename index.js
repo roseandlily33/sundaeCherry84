@@ -37,7 +37,7 @@ const questions = [
 
     {
         type: 'input',
-        message: 'What kinds of tests have you done?',
+        message: 'Test Instructions',
         name: 'tests'
     },
 
@@ -45,6 +45,17 @@ const questions = [
         type: 'input',
         message: 'What is your github username?',
         name: 'github'
+    },
+    {
+        type: 'input',
+        message: 'What is your email address?',
+        name: 'email'
+    },
+    {
+        type: 'list',
+        message: 'What license are you using?',
+        name: 'license',
+        choices: ['MIT', 'Apache', 'GPLv2', 'GPLv3', 'BSD 3-clause' ,'Unlicense'],
     },
 ];
 
@@ -59,14 +70,9 @@ function writeToFile(filename, data) {
 function init() {
     inquirer.prompt(questions).then((response)=> {
         const answers = generateMarkdown(response);
-     writeToFile('readMeExample.md', answers);
-    })
-   
+        writeToFile('readMeExample.md', answers);
+    })  
 }
 
 // Function call to initialize app
 init();
-
-
-//Makes it cyan: ooooooo
-const outputCyanText = (text) => console.log(`\x1b[36m${text}\x1b[0m`);
