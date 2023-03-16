@@ -7,8 +7,10 @@ This weeks challenge is to build a readme generator that takes in input and crea
 ## Screenshots:
 From the terminal
 <img width="769" alt="Screenshot 2023-03-16 at 12 57 25 PM" src="https://user-images.githubusercontent.com/109821108/225679323-80d6f1db-d4cb-47a7-925d-293bf5121a7f.png">
+
 Results viewed in file
 <img width="724" alt="Screenshot 2023-03-16 at 12 57 37 PM" src="https://user-images.githubusercontent.com/109821108/225679338-2c7aaa7d-3c8b-4e86-9eef-6749c515172f.png">
+
 Results viewed in markdown
 <img width="877" alt="Screenshot 2023-03-16 at 12 57 45 PM" src="https://user-images.githubusercontent.com/109821108/225679350-e066c7de-1ab2-4de7-b353-173c7c69345a.png">
 
