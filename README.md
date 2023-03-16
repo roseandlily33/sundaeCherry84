@@ -15,7 +15,7 @@ Coming Soon
 Week #10 Project to create a professional readme geenrator that takes in input on a command line and creates a readme about your project. Made with node.js, and inquirer. 
 
 ## Screenshots:
-Coming oon
+Coming Soon
 
 ## Link:
 Coming Soon
