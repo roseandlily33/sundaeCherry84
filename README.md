@@ -1,5 +1,5 @@
-# ReadMe Generator
-Week #9 Challenge to build a node.js readme generator
+# Professional README Generator 
+Week #10 Project to create a professional readme geenrator that takes in input on a command line and creates a readme about your project. Made with node.js, and inquirer. 
 
 ## Description:
 This weeks challenge is to build a readme generator that takes in input and creates a readme based on the answers given. 
@@ -8,16 +8,6 @@ This weeks challenge is to build a readme generator that takes in input and crea
 Coming Soon
 
 ## Deployed Link:
-Coming Soon
-
-
-# Professional README Generator 
-Week #10 Project to create a professional readme geenrator that takes in input on a command line and creates a readme about your project. Made with node.js, and inquirer. 
-
-## Screenshots:
-Coming Soon
-
-## Link:
 Coming Soon
 
 ## Problem It Solves:
