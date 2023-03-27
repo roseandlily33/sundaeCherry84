@@ -1,10 +1,10 @@
 
-  # Apple Pie
+  # Apple pie
 
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description:
-  You can create an apple pie
+  a apple pie maker
 
   ## Table of Contents:
   - [Instillation](#instillation)
@@ -18,16 +18,16 @@
   run npm install
  
   ## Usage:
-  You use it through a CLI
+  through the cmd line
 
   ## License:
-  GPLv3 allows you to copy, distribute and modify software as long as you track changes, dates in the source files. Any modifications must be available under the GPL with build and install instructions.
+  Apache license lets you do what you want as long as you include the permissive license. 
 
   ## Contributing:
-  You can contribute by adding to this open source software
+  you cant
 
   ## Tests:
-  Make any pie that you'd like and see if it works
+  Try to make pie
 
   ## Questions:
   For any questions please reach out to me at:
