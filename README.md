@@ -18,7 +18,7 @@ Results viewed in markdown:
 <img width="877" alt="Screenshot 2023-03-16 at 12 57 45 PM" src="https://user-images.githubusercontent.com/109821108/225679350-e066c7de-1ab2-4de7-b353-173c7c69345a.png">
 
 ## Video: 
-https://drive.google.com/file/d/1A2CrgW8RBw6FUDnDl7fYo-s3sLXYBSNx/view
+https://drive.google.com/file/d/1cYGH2d5LAK3w5QStukXwhc9h2DtJagkr/view
 
 ## Problem It Solves:
 It saves time by easily being able to enter information about your project without having to remeber what to add to it, and easily being able to choose a license. 
